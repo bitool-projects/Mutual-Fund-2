@@ -1,6 +1,6 @@
-# Project Title
+# Mutual Fund
 
-This Project helps you maintain student data.
+This Project created by Mann Bsc. Data.
 
 ## Table of Contents
 - [Screenshots](#screenshots)
